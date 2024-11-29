@@ -1,0 +1,34 @@
+#top
+{
+	text-align:center;
+	font-family: "Ubuntu", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+	color:red;
+}
+#menuone
+{
+	
+	font-family: "Ubuntu", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+	
+}
+#buttonone
+{
+	
+	font-family: "Ubuntu", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+	border:solid red;
+	text-align:center;
+	padding:10px;
+	border-radius:20px;
+
+	
+}
+#buttonone:hover
+{
+	background-color:red;
+	color:white;
+}

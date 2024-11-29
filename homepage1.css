@@ -1,0 +1,38 @@
+#title
+{
+	font-family: "Josefin Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-size:50;
+  text-align:center;
+  color:red;
+}
+#titleone
+{
+	font-family: "Josefin Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  
+}
+#captionone
+{
+	font-family: "Josefin Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal; 
+}
+#buttonone
+{
+	text-align:center;
+	border:solid;
+	padding:10px;
+	font-family: "Josefin Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  background-color:brown;
+  color:white;
+  border-radius:20px;
+}
